@@ -10,15 +10,7 @@ A collection of Natural Language Processing (NLP) projects demonstrating various
    - [Project 1: AG_news classification](#AGNews-classification using RNN.ipynb)
    - [Project 2: Fake_news_classification](#project-2-Fake_news_classification.ipynb)
    - [Project 3: Sentiment_analysis ](#Sentiment_analysis on IMDB dataset.ipynb)
-## **Table of Contents**
-1. [Introduction](#introduction)
-2. [Projects](#projects)
-   - [Project 1: Sentiment Analysis](#project-1-sentiment-analysis)
-   - [Project 2: Text Summarization](#project-2-text-summarization)
-3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5. [Contributing](#contributing)
-6. [License](#license)
+
    
    ## **Introduction**
 
